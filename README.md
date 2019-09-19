@@ -1,5 +1,12 @@
 # fast prototyping with AngularJs Restangular against JSON-server
 
+
+## FORK
+
+I've forked the original to remove the hardcoded `localhost:3000` references and rely on relative urls. See [commit](https://github.com/lalyos/fast-prototyping-with-ng-and-json-server/commit/e99bb71ad681df85614598e8ca884adb519ccf85)
+
+---
+
 Installation:
 
 ```sh
