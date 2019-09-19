@@ -21,7 +21,7 @@ angular.module('project', ['restangular', 'ngRoute']).
       }).
       otherwise({redirectTo:'/'});
 
-      RestangularProvider.setBaseUrl('http://');
+      RestangularProvider.setBaseUrl('//');
   });
 
 function ListCtrl($scope, Restangular) {
